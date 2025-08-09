@@ -16,6 +16,9 @@ A API fornece os seguintes endpoints:
   
 - POST /perguntas/{id}/responder: Verifica se a resposta para uma pergunta específica está certa ou errada. O corpo da requisição deve conter a resposta do usuário.
 
+Essa é uma implementação básica e você pode adicioná-la ou modificá-la de acordo com as suas necessidades.
+
+
 Funcionalidades da API
 
 A API fornece as seguintes funcionalidades:
